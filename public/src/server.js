@@ -8,5 +8,5 @@ app.get("/", (req, res) => {
 })
 
 app.listen(1337, () => {
-  console.log("The server is up and running!");
+  console.log("The server is up and running !");
 });
